@@ -1,1 +1,2 @@
-# dummy-backend
+# Blogging-Backend
+Backend project of blogging website
